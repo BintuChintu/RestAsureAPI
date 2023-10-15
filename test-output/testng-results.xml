@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-14T07:33:38 IST" name="RestAPITestSuite" finished-at="2023-09-14T07:33:43 IST" duration-ms="4200">
+    <groups>
+    </groups>
+    <test started-at="2023-09-14T07:33:38 IST" name="Test" finished-at="2023-09-14T07:33:43 IST" duration-ms="4200">
+      <class name="com.test.RestAsureAPI.RestDeleteAPITest">
+        <test-method signature="testDelete(org.testng.ITestContext)[pri:0, instance:com.test.RestAsureAPI.RestDeleteAPITest@1189dd52]" started-at="2023-09-14T07:33:42 IST" name="testDelete" finished-at="2023-09-14T07:33:42 IST" duration-ms="171" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@424e1977]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDelete -->
+      </class> <!-- com.test.RestAsureAPI.RestDeleteAPITest -->
+      <class name="com.test.RestAsureAPI.RestGetAPITest">
+        <test-method signature="testGet(org.testng.ITestContext)[pri:0, instance:com.test.RestAsureAPI.RestGetAPITest@35cabb2a]" started-at="2023-09-14T07:33:42 IST" name="testGet" finished-at="2023-09-14T07:33:42 IST" duration-ms="272" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@424e1977]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGet -->
+      </class> <!-- com.test.RestAsureAPI.RestGetAPITest -->
+      <class name="com.test.RestAsureAPI.RestPutAPITest">
+        <test-method signature="testPut(org.testng.ITestContext)[pri:0, instance:com.test.RestAsureAPI.RestPutAPITest@7e07db1f]" started-at="2023-09-14T07:33:42 IST" name="testPut" finished-at="2023-09-14T07:33:42 IST" duration-ms="286" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@424e1977]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPut -->
+      </class> <!-- com.test.RestAsureAPI.RestPutAPITest -->
+      <class name="com.test.RestAsureAPI.RestPostAPITest">
+        <test-method signature="testPost(org.testng.ITestContext)[pri:0, instance:com.test.RestAsureAPI.RestPostAPITest@5c5eefef]" started-at="2023-09-14T07:33:38 IST" name="testPost" finished-at="2023-09-14T07:33:42 IST" duration-ms="3351" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@424e1977]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPost -->
+      </class> <!-- com.test.RestAsureAPI.RestPostAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- RestAPITestSuite -->
+</testng-results>
